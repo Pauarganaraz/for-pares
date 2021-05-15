@@ -1,0 +1,11 @@
+Algoritmo calculoParesImpares
+	
+	Para iteradorP = 2  Hasta  10 Con Paso 2 Hacer;
+		Escribir  "vuelta par = " iteradorP
+		Escribir  "La cantidad total de vueltas pares es " iteradorP / 2
+		
+	Fin Para
+
+
+	
+FinAlgoritmo
